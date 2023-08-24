@@ -1,10 +1,14 @@
-- 👋 Oii, Sou o Bruno Bertol.
-- 💼 Atualmente estou trabalhando fora do ramo de tecnologia (Apenas estudando).
-- 📚 Atualmente estou aprendendo HTML, CSS e (JavaScript (iniciante)).
-- 🔭 Atualmente Procurando estagios na área de Front-end.
-- 📫 Todos meus projetos pode ser encontrados em @BrunoBertol
-
-<!---
-BrunoBertol/BrunoBertol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha apresentação</title>
+</head>
+<body>
+    <header>
+        <img src="Image/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696.gif" alt="Balões animados flutuando sobre um notebook">
+        <h1 style="text-align: center; margin: auto;">Oi, Sou o Bruno Bertol</h1>
+    </header>
+</body>
+</html>
