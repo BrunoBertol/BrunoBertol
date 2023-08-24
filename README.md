@@ -1,81 +1,55 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha apresentação</title>
-    <style>
+<div>
+  
+  <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/brunobertol/">Bruno Bertol 🙋🏻‍♂️</a>
+  </h1>
+  
+  <p align="center">
+    Sou Desenvolvedor Front End e estou a procura de um estagio.  
+  </p>
+  
+  <p align="center">
+    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+  </p>
+  
+</div>
 
-        *{
-            margin: 0;
-            padding: 0;
-        }
-        
-        body{
-            font-family: Arial, Helvetica, sans-serif;
-            padding-top: 15px;
-        }
+<div align="center">
+  <a href="https://github.com/BrunoBertol">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-        header > img.inicial{
-            background-color: black;
-            display: block;
-            margin: auto;
-            padding: 0.8px;
-            width: 70vw;
-            border: 2px solid rgba(255, 255, 255, 0.445);
-        }
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div><br>
 
-        header > ul > li{
-            margin-top: 25px;
-            text-align: center;
-            font-size: 60px;
-        }
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-        .emoji::before{
-            content: attr(data-emoji);
-            font-size: 60px;
-        }
+<div align="center">
 
-        header > hr{
-            margin-top: 25px;
-            margin-bottom: 25px;
-        }
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
-        main > p {
-            text-align: center;
-            font-size: 26px;
-            text-decoration: underline;
-        }
-
-        main > iframe{
-            width: 700px;
-            height: 500px;
-        }
-
-        main > ul > li { 
-            
-        }
-
-    </style>
-</head>
-<body>
-    <header>
-        <img class="inicial" src="Image/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696.gif" alt="Balões animados flutuando sobre um notebook">
-
-        <ul>
-            <li> Oi <span class="emoji" data-emoji="👋" ></span>, Sou o Bruno Bertol</li>
-        </ul>
-
-        <hr>
-    </header>
-    <main>
-        <p>Um desenvolvedor Front-end que está à procura de uma oportunidade de estágio.</p>
-
-        <ul>
-            <li> Atualmente não estou trbalhando na área da tecnologia</li>
-            <li> Atualmente Aprendendo HTML5, CSS3 e JAVASCRIPT</li>
-            <li> Todos os meus projetos podem ser encontrador <a href="https://github.com/BrunoBertol/">aqui</a></li>
-        </ul>        
-    </main>
-</body>
-</html>        
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
