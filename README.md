@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou aprendendo **HTML5, CSS3, JavaScript, ionic, react, java**
 
-- 💻 Todos os meus projetos pode ser encontrados no <a href="https://github.com/BrunoBertol?tab=repositories" target="blank">@BrunoBertol/Respositório</a>
+- 💻 Todos os meus projetos pode ser encontrados no <a href="https://github.com/BrunoBertol?tab=repositories" target="_blank">@BrunoBertol/Respositório</a>
 
 - 💬 Pergunte sobre **HTML5, CSS3, JavaScript, C** Para que possamos aprender juntos
 
@@ -16,7 +16,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 
-<a href="www.linkedin.com/in/bruno-bertol-894267209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bruno Bertol" height="30" width="40" /></a> <a href="[www.linkedin.com/in/bruno-bertol-894267209](https://www.instagram.com/dev_bertol/)" target="blank"><img display="inline-block" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bruno Bertol" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/bruno-bertol-894267209" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bruno Bertol" height="30" width="40" /></a> <a href="https://www.instagram.com/dev_bertol/" target="_blank"><img display="inline-block" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bruno Bertol" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
