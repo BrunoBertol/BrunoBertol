@@ -24,3 +24,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=brunobertol&" alt="brunobertol" /></p>
  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunobertol&show_icons=true&locale=en" alt="brunobertol" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunobertol&show_icons=true&locale=en&layout=compact" alt="brunobertol" /></p>
