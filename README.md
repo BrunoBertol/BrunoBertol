@@ -4,7 +4,7 @@
 <h3 align="center">Sou Analista e desenvolvedor de sistemas</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-- 🌱 Atualmente estou aprendendo **HTML5, CSS3, JavaScript, ionic, react, java**
+- 🌱 Atualmente estou aprendendo **HTML5, CSS3, JavaScript**
 
 - 💻 Todos os meus projetos pode ser encontrados no <a href="https://github.com/BrunoBertol?tab=repositories" target="_blank">@BrunoBertol/Respositório</a>
 
